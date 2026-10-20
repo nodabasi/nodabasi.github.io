@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["J74KSW9XC4.com.odabasi.kilibik"],
+        "appID": "J74KSW9XC4.com.odabasi.kilibik",
+        "paths": ["/kilibik-app/pair", "/kilibik-app/pair/*"],
+        "components": [
+          { "/": "/kilibik-app/pair" },
+          { "/": "/kilibik-app/pair/*" }
+        ]
+      }
+    ]
+  }
+}

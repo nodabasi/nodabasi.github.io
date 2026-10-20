@@ -1,0 +1,4 @@
+# Jekyll skips dot folders by default; .well-known holds the iOS universal
+# link and Android App Link verification files and must be published.
+include:
+  - .well-known
