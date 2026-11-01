@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.odabasi.kilibik",
+      "sha256_cert_fingerprints": [
+        "78:AF:A8:E1:A5:61:53:61:FA:D0:5C:E3:3D:92:35:A5:A0:87:BD:6D:AA:B4:52:73:C4:0E:38:BA:4E:C9:53:F4",
+        "AF:BC:CF:B0:52:AB:C2:8F:BF:F0:79:CB:C1:E0:8C:A3:F4:B9:98:0A:D1:5A:EB:22:9F:BB:90:E5:24:9B:26:8A",
+        "27:79:35:6B:CC:C8:DC:0A:96:26:D9:72:B3:38:B2:74:D7:10:F6:D3:BA:55:9C:E7:24:A8:2C:ED:74:FA:C1:03",
+        "8E:F1:FA:0A:24:95:A5:6E:FA:9A:1F:70:F0:4D:90:21:63:5A:B2:66:6C:09:89:E7:8A:FC:B2:5F:CC:DE:24:3D"
+      ]
+    }
+  }
+]
